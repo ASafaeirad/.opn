@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "name": "ASafaeirad",
+  "description": "Alireza Safaeirad's personal website",
+  "sections": [
+    {
+      "title": "Socials",
+      "type": "links",
+      "links": [
+        {
+          "title": "Website",
+          "url": "https://asafaeirad.com/"
+        },
+        {
+          "title": "GitHub",
+          "url": "https://github.com/ASafaeirad"
+        },
+        {
+          "title": "Telegram",
+          "url": "https://t.me/ASafaeirad"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/asafaeirad/"
+        },
+        {
+          "title": "Twitter",
+          "url": "https://x.com/ASafaeirad"
+        }
+      ]
+    },
+    {
+      "title": "FullstacksJS",
+      "type": "links",
+      "links": [
+        {
+          "title": "opn",
+          "url": "https://opn.bio/@fullstacksjs"
+        }
+      ]
+    }
+  ]
+}
